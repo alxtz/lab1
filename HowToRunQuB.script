@@ -1,0 +1,47 @@
+Script started on 2016年03月06日 (週日) 19時15分45秒
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ g++ QuestionB.cpp -o QuestionB.out
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ls
+HowToRunQuB.script  lab1.script  QuestionB.cpp  [0m[01;32mQuestionB.out[0m  README.txt
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ./QuestionB.c[Kout
+22
+22
+11
+34
+17
+52
+26
+13
+40
+20
+10
+5
+16
+8
+4
+2
+1
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ./QuestionB.out
+15
+15
+46
+23
+70
+35
+106
+53
+160
+80
+40
+20
+10
+5
+16
+8
+4
+2
+1
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ echo GoodJ[K Job!
+Good Job!
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ exit
+
+Script done on 2016年03月06日 (週日) 19時17分52秒

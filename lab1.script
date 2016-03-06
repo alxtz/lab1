@@ -1,0 +1,84 @@
+Script started on 2016年03月06日 (週日) 18時23分35秒
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ whoami; pwd
+F04046191
+/home/F04046191
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ git cong[Kfig -l
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ git config -l
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ git clone https://github.com/fate412460/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ cta [K[K[K[Kcat lab1.script
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ mv lab1.script lab1
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$  git add
+fatal: Not a git repository (or any parent up to mount parent )
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ git add lab1.script
+fatal: Not a git repository (or any parent up to mount parent )
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ ls
+[0m[01;34mlab1[0m
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$ cd /lab1
+bash: cd: /lab1: No such file or directory
+]0;F04046191@2015cpp: ~F04046191@2015cpp:~$  c[K[Kcd lab1
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ git add lab1.sd[Kcript
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ git commit
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident  <F04046191@2015cpp.(none)> not allowed
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ git cvonm[K[K[K[Kin[K[Konfig -- global[C[1Pglobal[C[C[C[C[C[C user.email ""f"a"t"e"4"1"2"4"6"0"@"g"m"s"z"i"[1P"[1P"[1P"a"i"l"."c"o"m"
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ git config --global user.email "fate412460@gmail.com"[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[C[C[C[C[1P "fate412460"[1P "fate412460"[1P "fate412460"[1P "fate412460"[1P "fate412460"n "fate412460"a "fate412460"m "fate412460"e "fate412460"
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ git config --global user.name "fate412460"email "fate412460@gmail.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmmit[K
+[?1049h[?1h=[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H".git/COMMIT_EDITMSG" 9L, 260C[>c[2;1H[34m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch [m[35mmaster[m
+[34m# [m[35mChanges to be committed:[m
+[34m#   (use "git reset HEAD <file>..." to unstage)
+#
+#       [m[32mmodified[m[34m: [m[31m  lab1.script[m
+[34m#[m
+[94m~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,0-1[8C全部[1;1H[?12l[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[24;63H5,1  [5;1H[?12l[?25h[?25l[24;1H[1m-- 插入 --[m[24;11H[K[24;63H5,1[10C全部[5;1H[?12l[?25h[?25l[24;63H4[4;1H[?12l[?25h[?25l[24;63H3[3;1H[?12l[?25h[?25l[24;63H2[2;1H[?12l[?25h[?25l[24;63H1[1;1H[?12l[?25h[?25l[38;5;130mh[m[24;65H2[1;2H[?12l[?25h[?25l[38;5;130mhl[m[24;65H3[1;3H[?12l[?25h[?25l[38;5;130ml4[m[24;65H4[1;4H[?12l[?25h[?25l[1;3H[K[24;65H3[1;3H[?12l[?25h[?25l[1;2H[K[24;65H2[1;2H[?12l[?25h[?25l[1;1H[K[24;65H1[1;1H[?12l[?25h[?25l[38;5;130m測試看看[m[24;66H3-9[1;9H[?12l[?25h[?25l[1;7H[K[24;66H0-7[1;7H[?12l[?25h[?25l[1;5H[K[24;65H7-5 [1;5H[?12l[?25h[?25l[2;23r[2;1H[L[1;24r[24;63H[K[24;63H2,1[10C全部[2;1H[?12l[?25h[?25l[3;23r[3;1H[L[1;24r[24;63H[K[24;63H3,1[10C全部[3;1H[?12l[?25h[?25l理由[24;65H7-5[3;5H[?12l[?25h[?25l：無[24;65H13-9[3;9H[?12l[?25h[?25l[4;23r[4;1H[L[1;24r[24;63H[K[24;63H4,1[10C全部[4;1H[?12l[?25h[?25l[3;23r[23;1H
+[1;24r[3;1H理由：無[23;1H[94m~                                                                               [m[24;63H[K[24;63H3,13-9[7C全部[3;9H[?12l[?25h[?25l[24;4H[1m^X mode (^]^D^E^F^I^K^L^N^O^Ps^U^V^Y)[m[24;63H[K[3;9H[?12l[?25h[?25l[24;4H[1m插入 -- [m[24;11H[K[24;63H3,13-9[7C全部[4;23r[4;1H[L[1;24r[24;63H[K[24;63H4,1[10C全部[4;1H[?12l[?25h[?25l[5;23r[5;1H[L[1;24r[24;63H[K[24;63H5,1[10C全部[5;1H[?12l[?25h[?25l[4;23r[23;1H
+[1;24r[23;1H[94m~                                                                               [m[24;63H[K[24;63H4,1[10C全部[4;1H[?12l[?25h[?25l[3;23r[23;1H
+[1;24r[3;1H理由：無[23;1H[94m~                                                                               [m[24;63H[K[24;63H3,13-9[7C全部[3;9H[?12l[?25h[?25l[24;1H[K[24;63H3,10-7[7C全部[3;7H[?12l[?25h[?25l[24;1H要離開 Vim 請輸入 :quit<Enter>[24;63H[K[24;63H3,10-7[7C全部[3;7H[?12l[?25h[?25l[24;65H7-5 [3;5H[?12l[?25h[?25l[24;65H10-7[3;7H[?12l[?25h[?25l[24;65H7-5 [3;5H[?12l[?25h[?25l[24;65H10-7[3;7H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[97m[41mE37: 已更改過檔案但尚未存檔 (可用 ! 強制執行)[m[17C3,10-7[7C全部[3;7H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hw[?25l[?12l[?25h[?25l".git/COMMIT_EDITMSG" 11L, 280C 已寫入[24C3,10-7[7C全部[24;63H[K[24;63H3,10-7[7C全部[3;7H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hw[?25l[?12l[?25h[?25l[24;2H[K[24;2H[?12l[?25hq[?25l[?12l[?25h[?25l[24;1H[K[24;1H[?1l>[?12l[?25h[?1049l[master 350be52] 測試
+ 1 file changed, 1 deletion(-)
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ git commit
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+nothing to commit (working directory clean)
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ git commit
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#
+nothing to commit (working directory clean)
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ gity[K push
+Username for 'https://github.com': fate412460
+Password for 'https://fate412460@github.com': 
+To https://github.com/fate412460/lab1.git
+   7588850..350be52  master -> master
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ ^C
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ logout
+bash: logout: not login shell: use `exit'
+]0;F04046191@2015cpp: ~/lab1F04046191@2015cpp:~/lab1$ exit
+exit
+
+Script done on 2016年03月06日 (週日) 18時37分18秒
